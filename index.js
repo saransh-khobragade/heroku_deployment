@@ -7,7 +7,7 @@ app.use(bodyParser.json());
 
 //basic get api with query string and query params
 app.get('/', async (req, res) => {
-    return res.status(400).json({err})
+    return res.status(200).json({message:"hello world"})
 });
 
 server.listen(process.env.PORT || 3000,()=>{
