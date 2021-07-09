@@ -1,0 +1,19 @@
+{
+  "name": "heroku_deployment",
+  "version": "1.0.0",
+  "description": "test env",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saru998/heroku_deployment.git"
+  },
+  "author": "Saransh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saru998/heroku_deployment/issues"
+  },
+  "homepage": "https://github.com/saru998/heroku_deployment#readme"
+}
